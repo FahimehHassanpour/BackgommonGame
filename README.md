@@ -1,6 +1,5 @@
 # Backgammon Multiplayer Game
 
-![Unity Logo](path-to-unity_logo.svg) ![Backgammon Logo](path-to-backgammon_logo.svg)
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
